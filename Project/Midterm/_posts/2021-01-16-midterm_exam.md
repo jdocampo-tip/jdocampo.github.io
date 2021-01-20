@@ -26,3 +26,130 @@ image: /assets/midterm/Mexam.png
 6. request a pull request from that branch in GitHub
 
 7. For your midterm exam to be counted, please paste your repository link as an answer in this exam.
+
+OUTPUT:
+Git Hub Link: https://github.com/jdocampo-tip/sysad2-12021/tree/midterm/1811089/midterm
+
+.  
+├── README.md  
+├── ansible.cfg  
+├── centos  
+│   ├── elk  
+│   │   ├── README.md  
+│   │   ├── defaults  
+│   │   │   └── main.yml  
+│   │   ├── handlers  
+│   │   │   └── main.yml  
+│   │   ├── meta  
+│   │   │   └── main.yml  
+│   │   ├── tasks  
+│   │   │   └── main.yml  
+│   │   ├── tests  
+│   │   │   ├── inventory  
+│   │   │   └── test.yml  
+│   │   └── vars  
+│   │       └── main.yml  
+│   ├── gpi  
+│   │   ├── README.md  
+│   │   ├── defaults  
+│   │   │   └── main.yml  
+│   │   ├── handlers  
+│   │   │   └── main.yml  
+│   │   ├── meta  
+│   │   │   └── main.yml  
+│   │   ├── tasks  
+│   │   │   └── main.yml  
+│   │   ├── tests  
+│   │   │   ├── inventory  
+│   │   │   └── test.yml  
+│   │   └── vars  
+│   │       └── main.yml  
+│   ├── lamps  
+│   │   ├── README.md  
+│   │   ├── defaults  
+│   │   │   └── main.yml  
+│   │   ├── handlers  
+│   │   │   └── main.yml  
+│   │   ├── meta  
+│   │   │   └── main.yml  
+│   │   ├── tasks  
+│   │   │   └── main.yml  
+│   │   ├── tests  
+│   │   │   ├── inventory  
+│   │   │   └── test.yml  
+│   │   └── vars  
+│   │       └── main.yml  
+│   └── nagios  
+│       ├── README.md  
+│       ├── defaults  
+│       │   └── main.yml  
+│       ├── handlers  
+│       │   └── main.yml  
+│       ├── meta  
+│       │   └── main.yml  
+│       ├── tasks  
+│       │   └── main.yml  
+│       ├── tests  
+│       │   ├── inventory  
+│       │   └── test.yml  
+│       └── vars  
+│           └── main.yml  
+├── config.yaml  
+├── elasticsearch.repo  
+├── folder1  
+│   ├── 02-beats-input.conf  
+│   ├── 10-syslog-filter.conf  
+│   ├── 30-elasticsearch-output.conf  
+│   └── filebeat.yml  
+├── grafana.repo  
+├── influxdb.repo  
+├── logstash.conf  
+├── mid  
+├── playbook.yml  
+├── prometheus.repo  
+└── ubuntu  
+    ├── elk  
+    │   ├── README.md  
+    │   ├── defaults  
+    │   │   └── main.yml  
+    │   ├── handlers  
+    │   │   └── main.yml  
+    │   ├── meta  
+    │   │   └── main.yml  
+    │   ├── tasks  
+    │   │   └── main.yml  
+    │   ├── tests  
+    │   │   ├── inventory  
+    │   │   └── test.yml  
+    │   └── vars  
+    │       └── main.yml  
+    ├── gpi  
+    │   ├── README.md  
+    │   ├── defaults  
+    │   │   └── main.yml  
+    │   ├── handlers  
+    │   │   └── main.yml  
+    │   ├── meta  
+    │   │   └── main.yml  
+    │   ├── tasks  
+    │   │   └── main.yml  
+    │   ├── tests  
+    │   │   ├── inventory  
+    │   │   └── test.yml  
+    │   └── vars  
+    │       └── main.yml  
+    └── lamp  
+        ├── README.md  
+        ├── defaults  
+        │   └── main.yml  
+        ├── handlers  
+        │   └── main.yml  
+        ├── meta  
+        │   └── main.yml  
+        ├── tasks  
+        │   └── main.yml  
+        ├── tests  
+        │   ├── inventory  
+        │   └── test.yml  
+        └── vars  
+            └── main.yml  
