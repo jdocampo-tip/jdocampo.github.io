@@ -22,7 +22,7 @@ title: Finals Project - CPE232
 email: qjdocampo@tip.edu.ph
 description: >- # this means to ignore newlines until "baseurl:"
  Welcome to my portfolio
-baseurl: "/qjdocampo-tip.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/jdocampo-tip.github.io" # the subpath of your site, e.g. /blog
 url: "https://github.com/jdocampo-tip/jdocampo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jdocampo-tip
 
