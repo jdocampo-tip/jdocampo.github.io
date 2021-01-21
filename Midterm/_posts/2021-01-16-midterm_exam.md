@@ -28,8 +28,9 @@ image: /assets/midterm/Mexam.png
 7. For your midterm exam to be counted, please paste your repository link as an answer in this exam.
 
 OUTPUT:
-Git Hub Link: https://github.com/jdocampo-tip/sysad2-12021/tree/midterm/1811089/midterm
+[Click Here](https://github.com/jdocampo-tip/sysad2-12021/tree/midterm/1811089/midterm)
 
+```
 .  
 ├── README.md  
 ├── ansible.cfg  
@@ -153,3 +154,4 @@ Git Hub Link: https://github.com/jdocampo-tip/sysad2-12021/tree/midterm/1811089/
         │   └── test.yml  
         └── vars  
             └── main.yml  
+```            

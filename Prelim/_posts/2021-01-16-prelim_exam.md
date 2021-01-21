@@ -42,8 +42,9 @@ Follow procedure:
 
 
 OUTPUT: 
-Git Hub Link: https://github.com/jdocampo-tip/sysad2-12021/tree/prelim-exam/1811089
+[Click Here](https://github.com/jdocampo-tip/sysad2-12021/tree/prelim-exam/1811089)
 
+```
 .  
 ├── README.md  
 ├── ansible.cfg  
@@ -112,3 +113,4 @@ Git Hub Link: https://github.com/jdocampo-tip/sysad2-12021/tree/prelim-exam/1811
 │           └── main.yml  
 └── variables  
     └── varsnames 
+```    
