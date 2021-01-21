@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Finals
+title: FINALS
 feed-type: Finals
 permalink: /feed/Finals
 ---
